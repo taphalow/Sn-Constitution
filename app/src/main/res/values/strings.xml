@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CitoyenSN</string>
+    <string name="menu_accueil">Accueil</string>
+    <string name="menu_favoris">Favoris</string>
+    <string name="menu_list">Tous les articles</string>
+    <string name="menu_support">Supports</string>
+    <string name="menu_facebook">Facebook</string>
+    <string name="menu_inviter">Inviter des amis</string>
+    <string name="menu_apropos">A propos de l\'application</string>
+    <string name="menu_recherche">Recherche</string>
+    <string name="menu_police">Police du texte</string>
+    <string name="menu_theme">Theme de L\'application</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

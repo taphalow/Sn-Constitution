@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/recherche_id"
+        android:icon="@drawable/recherche"
+        android:title="Recherche"
+        android:iconTint="?attr/tintColor"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/police"
+        android:title="Police"
+        android:iconTint="?attr/tintColor"
+        android:icon="@drawable/police"
+        app:showAsAction="always"
+        >
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/petit_id"
+                    android:title="Petit"
+                    ></item>
+                <item
+                    android:id="@+id/moyen_id"
+                    android:title="Moyen"
+                    ></item>
+                <item
+                    android:id="@+id/grand_id"
+                    android:title="Grand"
+                    ></item>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/theme_id"
+        android:iconTint="?attr/tintColor"
+        android:title="@string/menu_theme"
+        android:icon="@drawable/theme"
+        app:showAsAction="always"
+        ></item>
+</menu>

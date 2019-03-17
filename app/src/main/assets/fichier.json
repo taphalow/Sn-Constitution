@@ -1,0 +1,1915 @@
+{
+  "type": "Constitution",
+  "description": "",
+  "contenu": "CONSTITUTION DE LA REPUBLIQUE DU SENEGAL DU 22 JANVIER 2001",
+  "titres": [
+    {
+      "type": "preambule",
+      "index": "",
+      "nom": "PREAMBULE",
+      "contenu":"",
+      "paragraphes": [
+        {
+          "type": "paragraphe",
+          "contenu": "Le Peuple du Sénégal proclame solennellement son indépendance et son attachement aux droits fondamentaux tels qu’ils sont définis dans la Déclaration des Droits de l’Homme et du Citoyen de 1789 et dans la Déclaration Universelle du 10 décembre 1948."
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "Il proclame le respect et la garantie intangibles: "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Des libertés politiques; "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Des libertés syndicales;"
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Des droits et des libertés de la personne humaine, de la famille et des collectivités locales; "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Des libertés philosophiques et religieuses ; "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Du droit de propriété; "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Des droits économiques et sociaux. "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "Le Peuple sénégalais: "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Soucieux de préparer la voie de l’unité des Etats de l’Afrique et d’assurer les perspectives que comporte cette unité;"
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Conscient de la nécessité d’une Unité politique, culturelle, économique et sociale, indispensable a l’affirmation de la personnalité africaine; "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "• Conscient des impératifs historiques, moraux et matériels qui unissent les Etats de l’Ouest Africain. "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "Décide: "
+        },
+        {
+          "type": "paragraphe",
+          "contenu": "Que la République du Sénégal ne ménagera aucun effort pour la réalisation de l’unité africaine."
+        },
+        {
+          "type": "paragraphe",
+          "contenu": ""
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "I",
+      "nom": "TITRE I",
+      "contenu": "DE L’ETAT ET DE LA SOUVERAINETE ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 0,
+          "nom": "Article 1",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La République du Sénégal est laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens, sans distinction d'origine, de race, de sexe, de religion. Elle respecte toutes les croyances."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La langue officielle de la République du Sénégal est le Français. Les langues nationales sont le Diola, le malinké, le Poular, le Sérère, le Soninké et le Wolof. La devise de la République du Sénégal est: «Un Peuple - Un But - Une Foi». "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le drapeau de la République est composé de trois bandes verticales et égales, de couleur verte, or et rouge. Il porte, en vert, au centre de la bande or, une étoile à cinq branches. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi détermine le sceau et l’hymne de la République. Le principe de la République est : gouvernement du peuple, par le peuple et pour le peuple. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 1,
+          "nom": "Article 2",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La souveraineté nationale appartient au peuple sénégalais qui l’exerce par ses représentants ou par la voie du référendum.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Aucune section du peuple, ni aucun individu, ne peut s’attribuer l’exercice de la souveraineté."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le suffrage peut être direct ou indirect. Il est toujours universel, égal et secret."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Tous les nationaux sénégalais, des deux sexes, âgés de 18 ans accomplis, jouissant de leurs droits civils et politiques, sont électeurs dans les conditions déterminées par la loi.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 2,
+          "nom": "Article 3",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les partis politiques concourent à l’expression du suffrage. Ils sont tenus de respecter la Constitution ainsi que les Principes de la souveraineté nationale et de la démocratie. Il leur est interdit de s’identifier à une race, à une ethnie, à un sexe, à une religion, à une secte, à une langue ou à une région. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les conditions dans lesquelles les partis politiques sont formés, exercent et cessent leurs activités, sont déterminées par la loi. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 3,
+          "nom": "Article 4",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Tout acte de discrimination raciale, ethnique ou religieuse de même que toute propagande régionaliste pouvant porter atteinte à la sécurité intérieure de l’Etat ou à l’intégrité du territoire de la République, sont punis par la loi. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 4,
+          "nom": "Article 5",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les Institutions de la République sont : "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Le Président de la République et le Gouvernement ; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• L’Assemblée nationale ; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Le Conseil Constitutionnel, le Conseil d’Etat, la Cour de Cassation et les Cours et Tribunaux. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La capitale de la République du Sénégal est Dakar. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "II",
+      "nom": "TITRE II ",
+      "contenu": "DES LIBERTES PUBLIQUES ET DE LA PERSONNE HUMAINE ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 5,
+          "nom": "Article 6",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La personne humaine est sacrée. L’Etat a l’obligation de la respecter et de la protéger.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le peuple sénégalais reconnaît l’existence des droits de l’homme inviolables et inaliénables comme base de toute communauté humaine, de la paix et de la justice dans le monde. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Chacun a droit au libre développement de sa personnalité, pourvu, qu’il ne viole pas le droit d’autrui, ni n’enfreigne l’ordre de la loi. Chacun a droit à la vie et à l’intégrité physique dans les conditions définies par la loi."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La liberté de la personne humaine est inviolable. Nul ne peut être condamné si ce n’est en vertu d’une loi entrée en vigueur avant l’acte commis. La défense est un droit absolu dans tous les états et à tous les degrés de la procédure. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 6,
+          "nom": "Article 7",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Tous les êtres humains sont égaux devant la loi. Les hommes et les femmes sont égaux en droit. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il n’y a au Sénégal ni sujet, ni privilège de lieu de naissance, de personne ou de famille. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 7,
+          "nom": "Article 8",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Chacun a le droit d’exprimer et de diffuser librement ses opinions par la parole, la plume et l’image. Chacun a le droit de s’instruire sans entrave aux sources accessibles à tous. Ces droits trouvent leurs limites dans les prescriptions des lois et règlements ainsi que dans le respect de l’honneur d’autrui. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 8,
+          "nom": "Article 9",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Tous les citoyens ont le droits de constituer librement des associations et des sociétés, sous réserve de se conformer aux formalités édictées par les lois et règlements."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Ce droit ne peut être limité que par la loi."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les groupements dont le but ou l’activité seraient contraires aux lois Pénales ou dirigés contre l’ordre public sont prohibés. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 9,
+          "nom": "Article 10",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le secret de la correspondance, des communications postales télégraphiques et téléphoniques est inviolable. Il ne peut être ordonné de restriction à cette inviolabilité qu’en application de la loi.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 10,
+          "nom": "Article 11",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Tous les citoyens de la République ont le droit de se déplacer et de fixer librement sur toute l’étendue de la République du Sénégal. Ce droit ne peut être limité que par la loi. Nul ne peut être soumis à des mesures de sûreté sauf dans les cas prévus par la loi. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 11,
+          "nom": "Article 12",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le droit de propriété est garanti par la présente Constitution. Il ne peut y être porté atteinte que dans le cas de nécessité publique légalement constatée, sous réserve d’une juste et préalable indemnité. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 12,
+          "nom": "Article 13",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le domicile est inviolable. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il ne peut être ordonné de perquisition que par le juge ou par les autres autorités désignées par la loi. Les perquisitions ne peuvent être exécutées que dans les formes prescrites par celle-ci. Des mesures portant atteinte à l’inviolabilité du domicile ou la restreignant ne peuvent être prises que pour parer à un danger collectif ou protéger des personnes en péril de mort.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Ces mesures peuvent être également prises, en application de la loi, pour protéger, l’ordre public contre des menaces imminentes, singulièrement pour lutter contre les risques d’épidémie ou pour protéger la jeunesse en danger. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "text": "Mariage et Famille ",
+          "index": 13,
+          "nom": "Article 14",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le mariage et la famille constitue la base naturelle et morale de la communauté humaine. Ils sont placés sous la protection de l’Etat. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Etat et les collectivités publiques ont le devoir social de veiller à la santé physique et morale de la famille. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 14,
+          "nom": "Article 15",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les parents ont le droit naturel et le devoir d’élever leurs enfants. Ils sont soutenus, dans cette tâche, par l’Etat et les collectivités publiques. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La jeunesse es t protégée par l’Etat et les collectivités publiques contre l’exploitation et l’abandon moral."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "text": "Education ",
+          "index": 15,
+          "nom": "Article 16",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Etat et les collectivités publiques créent les conditions préalables et les institutions publiques qui garantissent l’éducation des enfants. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 16,
+          "nom": "Article 17",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Il est pourvu à l’éducation de la jeunesse par des écoles publiques. Les institutions et les communautés religieuses sont également reconnues comme moyen d’éducation."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 17,
+          "nom": "Article 18",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Des écoles privées peuvent être ouvertes avec l’autorisation et sous le contrôle de l’Etat. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "text": "Religions et Communautés Religieuses ",
+          "index": 18,
+          "nom": "Article 19",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La liberté de conscience, la profession et la pratique libre de la religion, sous réserve de l’ordre public, sont garanties à tous.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les institutions et les communautés religieuses ont le droit de se développer sans entrave. Elles sont dégagées de la tutelle l’Etat. Elles règlent et administrent leurs affaires d’une manière autonome. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "text": "Travail ",
+          "index": 19,
+          "nom": "Article 20",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Chacun a le droit de travailler et le droit de prétendre à un emploi. Nul ne peut être lésé dans son travail, en raison de ses origines, de ses opinions, ou de ses croyances. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le travailleur peut adhérer à un syndicat et défendre ses droits par l’action syndicale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le droit de grève est reconnu. Il s’exerce dans le cadre des lois qui le régissent. Il ne peut en aucun cas porter atteinte à la liberté du travail. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Tout travailleur participe, par l’intermédiaire de ses délégués, à la détermination des conditions de travail. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Des lois particulières fixent les conditions d’assistance et de protection que la société accorde aux travailleurs.  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "III",
+      "nom": "TITRE III ",
+      "contenu": "DU PRESIDENT DE LA REPUBLIQUE ET DU GOUVERNEMENT",
+      "articles": [
+        {
+          "type": "article",
+          "index": 20,
+          "nom": "Article 21",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République est élu au suffrage universel direct et au scrutin majoritaire à deux tours"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il n'est rééligible qu'une seule fois. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 21,
+          "nom": "Article 22",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La durée du mandat présidentiel est de sept ans. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 22,
+          "nom": "Article 23",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Tout candidat à la Présidence de la République doit être exclusivement de nationalité sénégalaise, jouir de ses droits civils et politiques et être âgé de 35 ans au moins.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 23,
+          "nom": "Article 24",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les candidatures sont déposées au greffe du Conseil Constitutionnel, trente jours francs au moins et soixante jours francs au plus avant le premier tour du scrutin. Toutefois, en cas de décès d'un candidat, le dépôt de nouvelles candidatures est possible à tout moment et jusqu'à la veille du tour de scrutin qui suit."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Toute candidature, pour être recevable, doit être présentée par un parti politique légalement constitué ou être accompagnée de la signature d'électeurs représentant au moins dix mille inscrits domiciliés dans six régions à raison de cinq cents au moins par région. Les candidats indépendants, comme les partis politiques, sont tenus de se conformer à l'article 3 de la Constitution. Chaque parti ou coalition de partis politiques ne peut présenter qu'une seule candidature. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 24,
+          "nom": "Article 25",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Vingt neuf jours francs avant le premier tour du scrutin, le Conseil Constitutionnel arrête et publie la liste des candidats. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les électeurs sont convoqués par décret. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 25,
+          "nom": "Article 26",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le scrutin pour l’élection du Président de la République a lieu quarante-cinq jours francs au plus et trente jours francs au moins avant la date de l’expiration du mandat du Président de la République ou, si la Présidence est vacante par démission, empêchement définitif ou décès, dans les soixante jours francs de la vacance. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 26,
+          "nom": "Article 27",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les Cours et Tribunaux veillent à la régularité de la campagne électorale et à l’égalité des candidats pour l’utilisation des moyens de propagande dans les conditions déterminées par une loi organique. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 27,
+          "nom": "Article 28",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le scrutin a lieu un dimanche. Nul n’est élu au premier tour s’il n’a obtenu la majorité absolue des suffrages exprimés représentant au moins le quart des électeurs inscrits. Si aucun candidat n’a obtenu la majorité requise, il est procédé à un second tour de scrutin le deuxième dimanche suivant celui du premier tour. Seuls sont admis à se présenter à ce second tour les deux candidats arrivés en tête au premier tour. En cas de contestation, le second tour a lieu le deuxième dimanche suivant le jour du prononcé de l’arrêt du Conseil Constitutionnel."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Au second tour, la majorité relative suffit.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 28,
+          "nom": "Article 29",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les Cours et Tribunaux veillent à la régularité du scrutin dans les conditions déterminées par une loi organique. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La régularité des opérations électorales peut être contestée par l'un des candidats, devant le Conseil Constitutionnel dans les soixante-douze heures qui suivent la proclamation provisoire des résultats par une commission nationale de recensement des votes instituée par une loi organique."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Si aucune contestation n'a été déposée dans les délais au greffe du Conseil Constitutionnel, le Conseil proclame immédiatement les résultats définitifs du scrutin. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "En cas de contestation, le Conseil statue sur la réclamation, dans les cinq jours francs, du dépôt de celle-ci. Son arrêt emporte proclamation définitive du scrutin ou annulation de l'élection. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "En cas d'annulation, il est procédé à un nouveau tour de scrutin dans les vingt et un jours francs qui suivent."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 29,
+          "nom": "Article 30",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République élu entre en fonction après la proclamation définitive de son élection et l'expiration du mandat de son prédécesseur. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République en exercice reste en fonction jusqu'à l'installation de son successeur.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Au cas où le Président de la République élu décède, se trouve définitivement empêché ou renonce au bénéfice de son élection avant son entrée en fonction, il est procédé à de nouvelles élections dans les conditions prévues à l'article 26."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 30,
+          "nom": "Article 31",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République est installé dans ses fonctions après avoir prêté serment devant le Conseil Constitutionnel en séance publique. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le serment est prêté dans les termes suivants :  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "«Devant la nation Sénégalaise, je jure de remplir fidèlement la charge de Président de la République du Sénégal, d’observer comme de faire observer scrupuleusement les dispositions de la Constitution et des lois, de consacrer toutes mes forces à défendre les institutions constitutionnelles, l’intégrité du territoire et l’indépendance nationale, de ne ménager enfin aucun effort pour la réalisation de l’unité africaine».  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 31,
+          "nom": "Article 32",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La charge de Président de la République est incompatible avec l’exercice de toute autre fonction publique ou privée, même élective. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 32,
+          "nom": "Article 33",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République est suppléé par le Président de l’Assemblée nationale en cas de démission, d’empêchement ou de décès."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Au cas où il serait, lui-même empêché la suppléance serait assurée par l’un des Vice-président de l’Assemblée nationale, dans l’ordre de préséance. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 33,
+          "nom": "Article 34",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Pendant la durée de la suppléance, les dispositions des articles 43, 46, 75, 75 bis et 89 ne sont pas applicables. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 34,
+          "nom": "Article 35",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La démission, l’empêchement ou le décès du président de la République sont constatés par le Conseil Constitutionnel, saisi par le Président de la République, en cas de démission, par l'autorité appelée à le suppléer en cas d’empêchement ou de décès. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il en est de même de la constatation de la démission, de l’empêchement ou du décès des personnes appelées à suppléer le Président de l’Assemblée nationale. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 35,
+          "nom": "Article 36",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République est le gardien de la Constitution. Il détermine la politique de la Nation, que le Gouvernement applique sous la direction du Premier ministre. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 36,
+          "nom": "Article 37",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République signe les ordonnances et les décrets."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Premier ministre assure l'exécution des lois et dispose du pouvoir Réglementaire, sous réserve des dispositions de l'alinéa précédent.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les actes du Président de la République, à l'exception de ceux qu'il accomplit en vertu des articles 39, 40, 41, 42, 43 alinéa 1, 47, 63, 65 alinéa 2, 67, 68, 72, 75 bis, 80 bis, 80 ter et 88 sont contresignés par le Premier ministre. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 37,
+          "nom": "Article 38",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République nomme à tous les emplois civils."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Premier ministre dispose de l’administration. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 38,
+          "nom": "Article 39",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République est le garant de l'indépendance nationale et de l'intégrité du territoire. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il est responsable de la défense nationale. Il préside le Conseil supérieur de la Défense nationale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il est le Chef des Armées ; il nomme à tous les emplois militaires et dispose de la force armée. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 39,
+          "nom": "Article 40",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les ambassadeurs et les envoyés extraordinaires des puissances étrangères sont accrédités auprès de lui. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 40,
+          "nom": "Article 41",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République a le droit de faire grâce. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 41,
+          "nom": "Article 42",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République peut adresser des messages à la Nation. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 42,
+          "nom": "Article 43",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République nomme le Premier ministre et met fin à ses fonctions. Les fonctions des autres membres du Gouvernement cessent dès qu'il est mis fin aux fonctions du Premier ministre."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Sur la proposition du Premier ministre, le Président de la République nomme les autres membres du Gouvernement, met fin à leurs fonctions et fixe leurs attributions. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Gouvernement est soumis au contrôle, de l’Assemblée nationale dans les conditions prévues par les articles 74 et 75 de la Constitution."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 43,
+          "nom": "Article 44",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République peut déléguer, par décret, certains pouvoirs au Premier ministre ou aux autres membres du Gouvernement à l'exception des pouvoirs prévus aux articles 39 alinéa 1, 40, 41, 43, 46, 47, 61, 62, 75 bis, 80 bis, et 80 ter. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 44,
+          "nom": "Article 45",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La qualité de ministre ou de secrétaire d’Etat est incompatible avec un mandat parlementaire et avec toute activité professionnelle publique ou privée. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les modalités d'application du présent article sont fixées par une loi organique. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 45,
+          "nom": "Article 46",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République peut, sur la proposition du Premier ministre et après avoir consulté le Président de l'Assemblée nationale et recueilli l'avis du Conseil Constitutionnel, soumettre tout projet de loi au référendum. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 46,
+          "nom": "Article 47",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Lorsque les institutions de la République, l’indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacées d'une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics est interrompu, le Président de la République peut, après en avoir informé la Nation par un message, prendre toute mesure tendant à rétablir le fonctionnement régulier des pouvoirs publics et à assurer la sauvegarde de la Nation à l'exclusion d'une révision constitutionnelle. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L'Assemblée nationale se réunit de plein droit.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Elle est saisie, pour ratification, dans les quinze jours de leur promulgation, des mesures de nature législative mises en vigueur par le Président. Ces mesures deviennent caduques si le projet de loi de ratification n'est pas déposé sur le bureau de l’Assemblée nationale dans ledit délai ; l'Assemblée peut les amender à l'occasion du vote de la loi de ratification. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Elle ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels. Lorsque ceux-ci sont exercés après la dissolution de l’Assemblée nationale, la date des scrutins fixée par le décret de dissolution ne peut être reportée, sauf cas de force majeure constaté par le Conseil Constitutionnel, et les mesures de nature législative prises par le Président de la République deviennent caduques si elles ne sont pas, dans les quinze jours de leur promulgation, déclarées par le Conseil Constitutionnel conformes à la Constitution. La nouvelle Assemblée nationale se réunit de plein droit dès la proclamation des résultats des élections. Elle est immédiatement saisie pour ratification des mesures de nature législative précédemment prises par le Président de la République. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "IV",
+      "nom": "TITRE IV",
+      "contenu": "DE L’ASSEMBLEE NATIONALE ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 47,
+          "nom": "Article 48",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée représentative de la République du Sénégal porte le nom d’Assemblée nationale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Ses membres portent le titre de Député à l’Assemblée nationale."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 48,
+          "nom": "Article 49",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les députés à l’Assemblée nationale sont élus au suffrage universel et direct. Leur mandat est de cinq ans. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les Cours et Tribunaux veillent à la régularité de la campagne électorale et du scrutin dans les conditions déterminées par une loi organique.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Une loi organique fixe le nombre des membres de l’Assemblée nationale, leurs indemnités, les conditions d’éligibilité, le régime des inéligibilités et des incompatibilités. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 49,
+          "nom": "Article 50",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Aucun député ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l’occasion des opinions ou votes émis par lui dans l’exercice de ses fonctions. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Aucun député ne peut, pendant la durée des sessions, être poursuivi ou arrêté, en matière criminelle ou correctionnelle, qu’avec l’autorisation de l’Assemblée nationale, sauf le cas de flagrant délit. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Aucun député ne peut, hors session, être arrêté qu’avec l’autorisation du bureau de l’Assemblée nationale, sauf le cas de flagrant délit, de poursuites autorisées ou de condamnation définitive. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La détention ou la poursuite d’un député est suspendue si l’Assemblée le requiert.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 50,
+          "nom": "Article 51",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le règlement de l’Assemblée nationale détermine : "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "1. La composition, les règles de fonctionnement du bureau ainsi que les pouvoirs et prérogatives de son Président qui est élu pour la durée de la législature;  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "2. Le nombre, le mode de désignation, la composition, le rôle et la compétence de ses commissions permanentes, sans préjudice du droit, pour l’Assemblée, de créer des commissions spéciales temporaires; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "3. L’organisation des services administratifs placés sous l’autorité du Président de l’Assemblée, assisté d’un secrétaire général administratif ;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "4. Le régime disciplinaire des députés ;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "5. Les différents modes de scrutin, à l’exclusion de ceux prévus expressément par la Constitution ;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "6. D’une façon générale, toutes les règles ayant pour objet le fonctionnement de l’Assemblée nationale dans le cadre de sa compétence constitutionnelle."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 51,
+          "nom": "Article 52",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "A l’exception de la date d’ouverture de la première session de l’Assemblée nouvellement élue, qui est fixée par le Président de la République, l’Assemblée nationale fixe la date d’ouverture et la durée de ses sessions ordinaires. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Celles-ci sont toutefois régies par les règles ci après : l’Assemblée nationale tient, chaque année, deux sessions ordinaires : "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• la première s’ouvre dans le cours du deuxième trimestre de l’année ; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• la seconde s’ouvre obligatoirement dans la première quinzaine du mois d’octobre. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi de finances de l’année est examinée au cours de la seconde session ordinaire. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Au cas où une session ordinaire ou extraordinaire est close sans que l’Assemblée ait fixé la date d’ouverture de sa prochaine session ordinaire, celle-ci est fixée en temps utile par le bureau de l’Assemblée.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La durée de chaque session ordinaire ne peut excéder deux mois."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale est, en outre, réunie en session extraordinaire sur un ordre du jour déterminé : "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• soit si la moitié plus un au moins de ses membres en adresse la demande écrite à son Président ; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• soit sur l’initiative du président de la République prise sur proposition du Premier ministre. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Toutefois, la durée de chaque session extraordinaire ne peut dépasser quinze jours, sauf dans le cas prévu à l’article 57. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les sessions extraordinaires sont closes sitôt l’ordre du jour épuisé. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 52,
+          "nom": "Article 53",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le vote des députés est personnel. Tout mandat impératif est nul."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi organique peut autoriser, exceptionnellement, la délégation de vote. Dans ce cas, nul ne peut recevoir délégation de plus d’un mandat. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 53,
+          "nom": "Article 53 bis",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale peut déléguer à sa commission des délégations le pouvoir de prendre des mesures qui sont du domaine de la loi. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Cette délégation s’effectue par une résolution de l’Assemblée nationale, dont le Président de la République est immédiatement informé. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Dans les limites de temps et de compétences fixées par la résolution prévue cidessus, la commission des délégations prend des délibérations qui sont promulguées comme des lois. Ces délibérations sont déposées sur le bureau de l’Assemblée nationale au plus tard le premier jour de la session ordinaire qui suit leur promulgation. Faute d’avoir été modifiées par l’Assemblée nationale dans les quinze premiers jours de la session, elles deviennent définitives.  "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 54,
+          "nom": "Article 54",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Si, à l’ouverture d’une session, le quorum de la moitié plus un des membres composant l’Assemblée nationale n’est pas atteint, la séance est renvoyée au troisième jour qui suit. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée peut alors délibérer, quelque soit le nombre des présents. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 55,
+          "nom": "Article 55",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les séances de l’Assemblée sont publiques, à moins qu’elle n’en ait décidé autrement."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le compte rendu in extenso des débats ainsi que les documents parlementaires sont publiés au Journal officiel. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "V",
+      "nom": "TITRE V ",
+      "contenu": "DES RAPPORTS ENTRE LE POUVOIR EXECUTIF  ET LE POUVOIR LEGISLATIF ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 56,
+          "nom": "Article 56",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale détient le pouvoir législatif. Elle vote seule la loi. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi fixe les règles concernant: "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Les droits civiques et les garanties fondamentales accordées aux citoyens pour l’exercice des libertés publiques ; les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• La nationalité, l’état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• La détermination des crimes et délits ainsi que les peines qui leur sont applicables, la procédure pénale, l’amnistie, la création de nouveaux ordres de juridiction et le statut des magistrats;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• L’assiette, le taux et les modalités de recouvrement des impositions de toutes natures, le régime d’émission de la monnaie;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Le régime électoral de l’Assemblée nationale et des Assemblées locales; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• La création des établissements publics; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Les garanties fondamentales accordées aux fonctionnaires civils et militaires de l’Etat; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Les nationalisations d’entreprises et les transferts de propriété d’entreprises du secteur public au secteur privé. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi détermine les principes fondamentaux : "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• De l’organisation générale de la Défense nationale; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• De la libre administration des collectivités locales, de leurs compétences et de leurs ressources; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• De l’enseignement; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Du régime de la propriété, des droits réels et des obligations civiles et commerciales;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Du droit du travail, du droit syndical et de la sécurité sociale ; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• Du régime de rémunération des agents de l’Etat. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les lois de finances déterminent les ressources et les charges de l’Etat dans les conditions et sous les réserves prévues par une loi organique. Les créations et transformations d’emploi ne peuvent être opérées que par les lois de finances. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les lois de programme déterminent les objectifs de l’action économique et sociale de l’Etat. Le Plan est approuvé par la loi."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les dispositions du présent article pourront être précisées et complétées par une loi organique. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "En outre, le Président de la République, sur la proposition du Premier ministre, peut, en raison de leur importance sociale, économique ou financière, soumettre au vote de l’Assemblée nationale des Projets de loi relatifs à des matières autres que celles énumérées au présent article, sans qu’il en résulte une dérogation aux dispositions du deuxième alinéa de l’article 65. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 57,
+          "nom": "Article 57",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale vote les projets de loi de finances dans les conditions prévues par une loi organique. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le projet de loi de finances de l’année, qui comprend notamment le budget, est déposé sur le bureau de l’Assemblée nationale, au plus tard le jour de l’ouverture de la seconde session ordinaire.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale dispose de soixante jours au plus pour voter les projets de lois de finances. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Si, par suite d’un cas de force majeure, le Président de la République n’a pu déposer le projet de loi de finances de l’année en temps utile pour que l’Assemblée dispose, avant la fin de la session ordinaire, du délai prévu à l’alinéa précédent, celle-ci est, immédiatement et de plein droit, suivie d’une session extraordinaire dont la durée est au plus égale au temps nécessaire pour parfaire ledit délai. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Si le projet de loi de finances n’est pas voté définitivement à l’expiration du délai de soixante jours prévu ci-dessus, il est mis en vigueur par décret, compte tenu des amendements votés par l’Assemblée nationale et acceptés par le Président de la République. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Si, compte tenue de la procédure prévue ci-dessus, la loi de finances de l’année n’a pu être mise en vigueur avant le début de l’année financière, le Président de la République est autorisé à reconduire par décret les services votés."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Conseil d’Etat assiste le Président de la République, le Gouvernement et l’Assemblée nationale dans le contrôle de l’exécution des lois de finances. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 58,
+          "nom": "Article 58",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’état de siège, comme l’état d’urgence, est décrété par le Président de la République. L’Assemblée nationale se réunit alors de plein droit, si elle n’est en session. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le décret proclamant l’état de siège ou l’état d’urgence cesse d’être en vigueur après douze jours, à moins que l’Assemblée nationale, saisie par le Président de la République, n’en ait autorisé la prorogation. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 59,
+          "nom": "Article 59",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La déclaration de guerre, est autorisée par l’Assemblée nationale. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 60,
+          "nom": "Article 60",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Après son adoption par l’Assemblée nationale, la loi est transmise sans délai au Président de la République. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 61,
+          "nom": "Article 61",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République promulgue les lois définitivement adoptées dans les huit jours francs qui suivent l’expiration des délais de recours visés à l’article 63.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le délai de promulgation est réduit de moitié en cas d’urgence déclarée par l’Assemblée nationale."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 62,
+          "nom": "Article 62",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Dans le délai fixé pour la promulgation, le Président de la République peut, par un message motivé, demander à l’Assemblée une nouvelle délibération qui ne peut être refusée. La loi ne peut être votée en seconde lecture que si les trois cinquièmes des membres composant l’Assemblée nationale se sont prononcés en sa faveur. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 63,
+          "nom": "Article 63",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le conseil Constitutionnel peut être saisi d’un recours visant à faire déclarer une loi inconstitutionnelle:"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "1. par le Président de la République, dans les six jours francs qui suivent la transmission à lui faite de la loi définitivement adoptée;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "2. par un nombre de députés au moins égal au dixième des membres de l’Assemblée nationale, dans les six jours francs qui suivent son adoption définitive. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 64,
+          "nom": "Article 64",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le délai de promulgation est suspendu jusqu’à l’issue de la seconde délibération de l’Assemblée nationale ou de la décision du Conseil Constitutionnel déclarant la loi conforme à la Constitution. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Dans tous les cas, à l’expiration des délais constitutionnels, la promulgation est de droit; il y est pourvu par le Président de l’Assemblée nationale."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 65,
+          "nom": "Article 65",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les matières qui ne sont pas du domaine législatif en vertu de la présente Constitution ont un caractère Réglementaire. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les textes de forme législative intervenus en ces matières peuvent être modifiés par décret si le Conseil Constitutionnel, à la demande du Président de la République, a déclaré qu’ils ont un caractère Réglementaire en vertu de l’alinéa précédent. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 66,
+          "nom": "Article 66",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale peut habiliter par une loi le Président de la République à prendre des mesures qui sont normalement du domaine de la loi.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Dans les limites de temps et de compétences fixées par la loi d’habilitation, le Président de la République prend des ordonnances qui entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n’est pas déposé sur le bureau de l’Assemblée nationale avant la date fixée par la loi d’habilitation. L’Assemblée nationale peut les amender à l’occasion du vote de la loi de ratification."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 67,
+          "nom": "Article 67",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les lois qualifiées organiques par la Constitution sont votées et modifiées à la majorité absolue des membres composant l’Assemblée nationale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Elles ne peuvent être promulguées si le Conseil Constitutionnel, obligatoirement saisi par le Président de la République, ne les a déclarées conformes à la Constitution. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les article 53 bis et 66 ne sont pas applicables aux lois organiques."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 68,
+          "nom": "Article 68",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République communique avec l’Assemblée nationale par des messages qu’il prononce ou fait lire et qui ne donnent lieu à aucun débat. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 69,
+          "nom": "Article 69",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’initiative des lois appartient concurremment au Président de la République et aux députés à l’Assemblée nationale. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 70,
+          "nom": "Article 70",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Premier ministre et les autres membres du Gouvernement peuvent être entendus à tout moment par l’Assemblée nationale et par ses commissions. Ils peuvent se faire assister par des collaborateurs."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 71,
+          "nom": "Article 71",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les députés et le Président de la République ont le droit d’amendement. Les amendements du Président de la République sont présentés par le Premier ministre et les autres membres du Gouvernement. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les propositions et amendements formulés par les députés ne sont pas recevables lorsque leur adoption aurait pour conséquence, soit une diminution des ressources publiques, soit la création ou l’aggravation d’une charge publique, à moins que ces propositions ou amendements ne soient assortis de propositions de recettes compensatrices. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 72,
+          "nom": "Article 72",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "S’il apparaît, au cours de la procédure législative qu’une proposition ou un amendement n’est pas du domaine de la loi, le Premier ministre et les autres membres du Gouvernement peuvent opposer l’irrecevabilité. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "En cas de désaccord, le Conseil Constitutionnel, à la demande du Président de la République ou de l’Assemblée nationale, statue dans les huit jours."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 73,
+          "nom": "Article 73",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’inscription, par priorité, à l’ordre du jour de l’Assemblée nationale d’un projet ou d’une Proposition de loi ou d’une déclaration de politique générale est de droit si le Président de la République en fait la demande. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 74,
+          "nom": "Article 74",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les députés peuvent poser au Premier ministre et aux autres membres du Gouvernement qui sont tenus d’y répondre, des questions écrites et des questions orales avec ou sans débat. Les questions ou les réponses qui leur sont faites ne sont pas suivies de vote."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale peut désigner, en son sein, des commissions d’enquête."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La loi détermine les conditions d’organisation et de fonctionnement ainsi que les pouvoirs des commissions d’enquête. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 75,
+          "nom": "Article 75",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale peut provoquer la démission du Gouvernement par le vote d’une motion de censure."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La motion doit, à peine d’irrecevabilité, être revêtue de la signature d’un dixième des membres composant l’Assemblée nationale.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le vote sur la motion de censure ne peut intervenir que deux jours francs après son dépôt sur le bureau de l’Assemblée nationale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La motion de censure est votée au scrutin public, à la majorité absolue des membres composant l’Assemblée nationale ; seuls sont recensés les votes favorables à la motion de censure. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Si la motion de censure est adoptée, le Premier ministre remet immédiatement la démission du Gouvernement au Président de la République."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les signataires de la motion ne peuvent proposer une nouvelle motion au cours de la même session."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 76,
+          "nom": "Article 75 bis",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République peut prononcer, par décret, la dissolution de l’Assemblée nationale , après avis de son Président, lorsqu’elle a adopté une motion de censure à l’encontre du Gouvernement dans les conditions fixées à l’article 75. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le décret de dissolution fixe la date du scrutin pour l’élection des députés. Le scrutin a lieu quarante-cinq jours au moins et soixante jours au plus après la date de publication dudit décret. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il ne peut être procédé à une nouvelle dissolution dans l’année qui suit la date de proclamation définitive de cette élection. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’Assemblée nationale dissoute ne peut se réunir ; toutefois, le mandat des députés n’expire qu’à la date de la proclamation de l’élection des membres de la nouvelle Assemblée nationale. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "VI",
+      "nom": "TITRE VI ",
+      "contenu": "DES TRAITES ET ACCORDS  INTERNATIONAUX ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 77,
+          "nom": "Article 76",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République négocie les engagements internationaux. Il les ratifie ou les approuve. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 78,
+          "nom": "Article 77",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les traités de paix, les traités de commerce, les traités ou accords relatifs à l’organisation internationale, ceux qui engagent les finances de l’Etat, ceux qui modifient des dispositions de nature législative, ceux qui sont relatifs à l’état des personnes, ceux qui comportent cession, échange ou adjonction de territoire ne peuvent être ratifiés ou approuvés qu’en vertu d’une loi. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Ils ne prennent effet qu’après avoir été ratifiés ou approuvés. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Nulle cession, nulle adjonction de territoire n’est valable sans le consentement des populations intéressées."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 79,
+          "nom": "Article 78",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Si le Conseil Constitutionnel a déclaré qu’un engagement international comporte une clause contraire à la Constitution, l’autorisation de le ratifier ou de l’approuver ne peut intervenir qu’après la révision de la Constitution."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 80,
+          "nom": "Article 79",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les traités ou accords régulièrement ratifiés ou approuvés ont , dès leur publication une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l’autre partie.  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "VII",
+      "nom": "TITRE VII ",
+      "contenu": "DU POUVOIR JUDICIAIRE",
+      "articles": [
+        {
+          "type": "article",
+          "index": 81,
+          "nom": "Article 80",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le pouvoir judiciaire est indépendant du pouvoir législatif et du pouvoir exécutif. Il est exercé par le Conseil Constitutionnel, le Conseil d’Etat, la Cour de Cassation et les Cours et Tribunaux."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 82,
+          "nom": "Article 80 bis",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Conseil Constitutionnel comprend cinq membres dont un Président, un Viceprésident et trois juges. La durée de leur mandat est de six ans. Le Conseil est renouvelé tous les deux ans à raison du Président ou de deux membres autres que le Président, dans l’ordre qui résulte des dates d’échéance de leurs mandats. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les membres du Conseil Constitutionnel sont nommés par le Président de la République. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les conditions à remplir pour pouvoir être nommé membre du Conseil Constitutionnel sont déterminées par la loi organique.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le mandat des membres du Conseil Constitutionnel ne peut être renouvelé. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il ne peut être mis fin aux fonctions des membres du Conseil Constitutionnel avant l’expiration de leur mandat que sur leur demande ou pour incapacité physique, et dans les conditions prévues par la loi organique. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 83,
+          "nom": "Article 80 ter",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les magistrats autres que les membres du Conseil Constitutionnel sont nommés par le Président de la République après avis du Conseil Supérieur de la Magistrature. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les juges ne sont soumis dans l’exercice de leurs fonctions qu’à l’autorité de la loi. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les magistrats du siège sont inamovibles.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La compétence, l’organisation et le fonctionnement du Conseil Supérieur de la magistrature ainsi que le statut des magistrats sont fixés par une loi organique."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 84,
+          "nom": "Article 81",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le pouvoir judiciaire est gardien des droits et libertés définis par la Constitution et la loi."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 85,
+          "nom": "Article 82",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Conseil constitutionnel connaît de la constitutionnalité des lois et des engagements internationaux, des conflits de compétence entre l’exécutif et le législatif, des conflits de compétence entre le Conseil d’Etat et la Cour de Cassation, ainsi que des exceptions d’inconstitutionnalité soulevées devant le Conseil d’Etat ou la Cour de Cassation.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Conseil d’Etat est juge en premier et dernier ressort de l’excès de pouvoir des autorités exécutives et de la régularité des comptes des comptables publics. Il connaît des décisions de la Cour de discipline budgétaire par la voie du recours en cassation. Il est compétent en dernier ressort dans les contentieux des inscriptions sur les listes électorales et des élections aux conseils des collectivités territoriales. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il connaît, par la voie du recours en cassation, des décisions des Cours et Tribunaux relatives aux autres contentieux administratifs, à l’exception de ceux que la loi Organique a attribué expressément à la Cour de Cassation. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "En toute autre matière, la Cour de Cassation se prononce par la voie du recours en cassation sur les jugements rendus en dernier ressort par les juridictions subordonnées. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 86,
+          "nom": "Article 83",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Sauf cas de flagrant délit, les membres du Conseil Constitutionnel ne peuvent être poursuivis, arrêtés, détenus ou jugés en matière pénale qu’avec l’autorisation du Conseil et dans les mêmes conditions que les magistrats du Conseil d’Etat et de la Cour de Cassation.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Sauf cas déflagrant délit, les magistrats du Conseil d’Etat et de la Cour de Cassation ne peuvent être poursuivis, arrêtés, détenus ou jugés en matière pénale que dans les conditions prévues par la loi organique portant statut des magistrats. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 87,
+          "nom": "Article 84",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Des lois organiques déterminent les autres compétences du Conseil Constitutionnel, du Conseil d’Etat et de la Cour de Cassation, ainsi que leur organisation, les règles de désignation de leurs membres et la procédure suivie devant elles. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "VIII",
+      "nom": "TITRE VIII",
+      "contenu": "DE LA HAUTE COUR DE JUSTICE ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 88,
+          "nom": "Article 85",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Il est institué une Haute Cour de Justice."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 89,
+          "nom": "Article 86",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "La Haute Cour de Justice est composée de membres élus par l’Assemblée nationale, en son sein, au début de chaque législature."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Elle est présidée par un magistrat. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "L’organisation de la Haute Cour de Justice et la procédure suivie devant elle sont déterminées par une loi organique. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 90,
+          "nom": "Article 87",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Président de la République n’est responsable des actes accomplis dans l’exercice de ses fonctions qu’en cas de haute trahison. Il ne peut être mis en accusation que par l’Assemblée nationale, statuant par un vote au scrutin secret, à la majorité des trois cinquièmes des membres la composant; il est jugé par la Haute Cour de Justice."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le Premier ministre et les autres membres du Gouvernement sont pénalement responsables des actes accomplis dans l’exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. La procédure définie ci-dessus leur est applicable, ainsi qu’à leurs complices, dans le cas de complot contre la sûreté de l’Etat. Dans les cas prévus au présent alinéa. la Haute Cour est liée par la définition des crimes et délits ainsi que par la détermination des peines, telles qu’elles résultent des lois pénales en vigueur au moment où les faits ont été commis.  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "IX",
+      "nom": "TITRE IX",
+      "contenu": "DU CONSEIL ECONOMIQUE ET SOCIAL",
+      "articles": [
+        {
+          "type": "article",
+          "index": 91,
+          "nom": "Article 88",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Le Conseil Economique et Social assiste le Président de la République, le Gouvernement et l’Assemblée nationale. Il donne son avis sur les questions qui lui sont renvoyées par le Président de la République, le Gouvernement ou l’Assemblée. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il est compétent pour examiner les projets et propositions de loi ainsi que les projets de décret à caractère économique et social, à l’exclusion des lois de finances. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il est obligatoirement saisi, pour avis, des projets de loi de programme à caractère économique et social et du Plan. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Il peut être saisi et consulté sur tout problème intéressant la vie économique et sociale de la Nation. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Une loi organique fixe la composition, l’organisation et le fonctionnement du Conseil Economique et Social."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "X",
+      "nom": "TITRE X",
+      "contenu": "DE LA REVISION",
+      "articles": [
+        {
+          "type": "article",
+          "index": 92,
+          "nom": "Article 89",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "L’initiative de la révision de la Constitution appartient concurremment au Président de la République et aux députés.  "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Le projet ou la proposition de révision adoptée par l’Assemblée nationale ne deviennent définitifs qu’après avoir été approuvés par référendum."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Toutefois, le projet ou la proposition de révision ne sont pas présentés au référendum lorsque le Président de la République décide de les soumettre à la seule Assemblée nationale ; dans ce cas, le projet ou la proposition de révision ne sont approuvés que s’ils réunissent la majorité des trois cinquièmes des membres composant l’Assemblée nationale. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les articles 53 bis et 66 ne sont pas applicables aux lois constitutionnelles."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La forme républicaine de l’Etat ne peut faire l’objet d’une révision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "XI",
+      "nom": "TITRE XI",
+      "contenu": "DES COLLECTIVITES LOCALES ",
+      "articles": [
+        {
+          "type": "article",
+          "index": 93,
+          "nom": "Article 90",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les collectivités locales de la République sont la région, la commune et la communauté rurale."
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Dans le respect des lois et règlements, les collectivités locales, s’administrent librement par des conseils élus. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "index": "XII",
+      "nom": "TITRE XII",
+      "contenu": "MAINTIEN EN VIGUEUR DES  TEXTES ANTERIEURS",
+      "articles": [
+        {
+          "type": "article",
+          "index": 94,
+          "nom": "Article 91",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Les lois et règlements actuellement en vigueur, lorsqu’ils ne sont pas contraires à la présente Constitution, resteront en vigueur tant qu’ils n’auront pas été modifiés ou abrogés. "
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "index": 95,
+          "nom": "Article 92",
+          "paragraphes": [
+            {
+              "type": "paragraphe",
+              "contenu": "Abrogé. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "Les Différentes modifications. "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "La Loi n° 63-22 du 7 Mars 1963 modifiée par les lois constitutionnelles: "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 67-32 du 20 Juin 1967;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 68-04 du 04 Mars 1968;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 70-15 du 26 Février 1970; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 76-01 du 19 Mars 1976; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 76-27 du 06 Avril 1976; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 78-60 du 28 Décembre 1978; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 81-16 du 06 Mai 1981;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 83-55 du 1er Mai 1983; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 84-34 du 24 Mars 1984; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 91-20 du 16 Février 1991; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 91-25 du 05 Avril 1991; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 91-26 du 05 Avril 1991; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 91-46 du 06 Octobre 1991; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 92-14 du 15 Janvier 1992;"
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 92-22 du 30 Mai 1992; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 92-54 du 03 Septembre 1992; "
+            },
+            {
+              "type": "paragraphe",
+              "contenu": "• n° 94-55 du 13 Juin 1994. "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

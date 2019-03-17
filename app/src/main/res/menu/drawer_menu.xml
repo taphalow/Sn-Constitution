@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/accueil_id"
+            android:title="@string/menu_accueil"
+            android:icon="@drawable/accueil"
+            android:iconTint="?attr/tintColor"
+            ></item>
+        <item
+            android:id="@+id/favoris_id"
+            android:title="@string/menu_favoris"
+            android:icon="@drawable/favoris"
+            android:iconTint="?attr/tintColor"
+            ></item>
+        <item
+            android:id="@+id/articles_id"
+            android:title="@string/menu_list"
+            android:iconTint="?attr/tintColor"
+            android:icon="@drawable/list"
+            ></item>
+        <item
+            android:id="@+id/saut1"
+            android:title=""></item>
+        <item
+            android:id="@+id/saut2"
+            android:title=""></item>
+        <item
+            android:id="@+id/saut3"
+            android:title=""></item>
+
+    </group>
+
+    <group>
+        <item android:title="@string/menu_support">
+            <menu>
+
+                <item
+                    android:id="@+id/facebook_id"
+                    android:icon="@drawable/facebook"
+                    android:iconTint="?attr/tintColor"
+                    android:title="@string/menu_facebook"></item>
+                <item
+                    android:id="@+id/apropos_id"
+                    android:icon="@drawable/help"
+                    android:iconTint="?attr/tintColor"
+                    android:title="@string/menu_apropos"></item>
+            </menu>
+        </item>
+    </group>
+</menu>

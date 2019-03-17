@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ut.sn.citoyensn.AcceuilTitre">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/scrollViewTitre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/texview1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="16dp"
+                android:textColor="?attr/textColor"
+                android:drawableLeft="@drawable/back"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="16dp"
+                android:text="Retour à l'accueil"
+                android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle" />
+
+
+            <TextView
+                android:id="@+id/texview2"
+                android:textColor="?attr/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="30dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title" />
+            <ListView
+                android:id="@+id/listviewTitre"
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:layout_height="2600dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
